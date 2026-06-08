@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!--
-**LordE121/LordE121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header -->
+<div align="center">
+  <h1>Hi 👋, I'm LordE</h1>
+  <!--<h3><em>"TEST."</em></h3>-->
+</div>
 
-Here are some ideas to get you started:
+<!-- About 
+<div align="center">
+  💻 TEST <b></b>.  
+  <br><br>
+  🔍 TEST
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<br/>
+
+<!-- Contact 
+<div align="center">
+  📫 Reach me at: <a href="mailto:SAMPLE"></a>  
+  <br/>
+  🌐 Portfolio coming soon...
+</div>
+
+<!-- horizontal divider 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 -->
+
+<!-- Tech Stack -->
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,c,py&perline=10" />
+  </a>
+</p>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dunggdinh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunggdinh&theme=tokyonight" width="48%" />
+</p>
+
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dunggdinh&theme=darkhub&no-frame=true&column=4&row=1" />
+</p>
+
+<!-- Connect 
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+</div>
+
+<p align="center">
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dunggdinh"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+-->
+
+<!-- GitBook badge -->
+<p align="center">
+  <a href="https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link">
+    <img src="https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1" />
+  </a>
+</p>
+
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
